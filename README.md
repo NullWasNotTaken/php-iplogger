@@ -1,6 +1,6 @@
 # Discord-Webhook-IP-Logger
 This is a IP logger I made that sends the IP of the visitor of a website to Discord as an embed message.<br><br>
-<sub>Note 10-07-2023: This is a script to keep a eye on your visitors, any misuse of this resource is not my problem, its yours</sub><br>
+<sub>This is a script to keep a eye on your visitors, any misuse of this resource is not my problem, its yours</sub><br>
 
 # Features
 - Grabs the IP of all page visitors (except for bots/crawlers).
